@@ -6,4 +6,4 @@ A pre-trained CNN is fine-tuned
 for a classification of DME versus normal cases. The fine-tuned Inception-Resnet-v2
 CNN model can effectively identify pathologies in comparison to classical learning.
 
-Ravi .................
+Ravi kamble
